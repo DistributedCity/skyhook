@@ -6,7 +6,7 @@
 Welcome to Skyhook's documentation!
 ===================================
 
-Cool Contents:
+Cool Contents triggered by webhook?:
 
 .. toctree::
    :maxdepth: 2
